@@ -1,0 +1,24 @@
+{
+    "name": "DTT.LevelSelect.Editor",
+    "references": [
+        "GUID:c6a12e1e013355540ab606f758b6c505",
+        "GUID:1711cb30f577ba1498364a78a6873853",
+        "GUID:b5e078f64d95bba4a8ba03b5b4940114",
+        "GUID:a42c3cb3a5359c646a8369032c8fe8ea",
+        "GUID:343deaaf83e0cee4ca978e7df0b80d21",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:27619889b8ba8c24980f49ee34dbb44a",
+        "GUID:0acc523941302664db1f4e527237feb3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

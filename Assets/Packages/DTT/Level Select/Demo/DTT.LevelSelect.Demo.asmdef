@@ -1,0 +1,23 @@
+{
+    "name": "DTT.LevelSelect.Demo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a42c3cb3a5359c646a8369032c8fe8ea",
+        "GUID:40110409d6f32d94c8a49de52995a651"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "dtt.minigame-base",
+            "expression": "0.0.0",
+            "define": "MINIGAME_BASE"
+        }
+    ],
+    "noEngineReferences": false
+}

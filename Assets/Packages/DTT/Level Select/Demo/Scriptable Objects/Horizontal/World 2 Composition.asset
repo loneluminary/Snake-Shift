@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83775e470d3740fe853dc4d09ee42c57, type: 3}
+  m_Name: World 2 Composition
+  m_EditorClassIdentifier: 
+  _entryLayout: {fileID: 3206329363339394117, guid: 19b370e6a0bac9a4aa099d48dbeb7d78, type: 3}
+  _centreLayouts:
+  - {fileID: 3206329363339394117, guid: fb843011c97d5a84a87a7530b6cd01b8, type: 3}
+  _exitLayout: {fileID: 3206329363339394117, guid: a2761f899c1effb429dbb7f95995f4d4, type: 3}
+  _layoutCompositionType: 0
+  _levelRange:
+    start: 31
+    length: 29

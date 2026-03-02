@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef5915c4ad492b54fa6978be8fbfa293, type: 3}
+  m_Name: Level (4)
+  m_EditorClassIdentifier: 
+  LevelName: Level
+  Description: 
+  enabledObjectives: 6
+  MaxMoves: 30
+  Timer: 20
+  CollectFuits: 0
+  ObjectiveMessage: Complete the level in under 20s and under 30 moves.
+  RewardCoins: 20
+  Prefab: {fileID: 3064818030285831693, guid: fa44e419d722bd54887dfd138d8c257f, type: 3}

@@ -1,0 +1,375 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ff276189c0897844b5c61fc4f15d6dc, type: 3}
+  m_Name: Level Database
+  m_EditorClassIdentifier: 
+  _levelData:
+  - _levelNumber: 1
+    _maxScore: 1
+    _isLocked: 0
+    _score: 1
+  - _levelNumber: 2
+    _maxScore: 1
+    _isLocked: 0
+    _score: 1
+  - _levelNumber: 3
+    _maxScore: 1
+    _isLocked: 0
+    _score: 1
+  - _levelNumber: 4
+    _maxScore: 0
+    _isLocked: 0
+    _score: 0
+  - _levelNumber: 5
+    _maxScore: 1
+    _isLocked: 0
+    _score: 0.4
+  - _levelNumber: 6
+    _maxScore: 1
+    _isLocked: 0
+    _score: 0
+  - _levelNumber: 7
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 8
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 9
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 10
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 11
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 12
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 13
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 14
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 15
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 16
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 17
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 18
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 19
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 20
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 21
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 22
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 23
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 24
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 25
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 26
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 27
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 28
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 29
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 30
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 31
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 32
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 33
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 34
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 35
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 36
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 37
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 38
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 39
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 40
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 41
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 42
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 43
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 44
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 45
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 46
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 47
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 48
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 49
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 50
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 51
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 52
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 53
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 54
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 55
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 56
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 57
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 58
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 59
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 60
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 61
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 62
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 63
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 64
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 65
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 66
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 67
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 68
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 69
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 70
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 71
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 72
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 73
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 74
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 75
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 76
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 77
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 78
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 79
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 80
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 81
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 82
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 83
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 84
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 85
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 86
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 87
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 88
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 89
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 90
+    _maxScore: 1
+    _isLocked: 1
+    _score: 0

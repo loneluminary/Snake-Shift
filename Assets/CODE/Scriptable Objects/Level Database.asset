@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ff276189c0897844b5c61fc4f15d6dc, type: 3}
+  m_Name: Level Database
+  m_EditorClassIdentifier: 
+  _levelData:
+  - _levelNumber: 1
+    _maxScore: 3
+    _isLocked: 0
+    _score: 0
+  - _levelNumber: 2
+    _maxScore: 3
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 3
+    _maxScore: 3
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 4
+    _maxScore: 3
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 5
+    _maxScore: 3
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 6
+    _maxScore: 3
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 7
+    _maxScore: 3
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 8
+    _maxScore: 3
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 9
+    _maxScore: 3
+    _isLocked: 1
+    _score: 0
+  - _levelNumber: 10
+    _maxScore: 3
+    _isLocked: 1
+    _score: 0

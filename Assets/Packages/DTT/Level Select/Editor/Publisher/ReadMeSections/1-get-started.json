@@ -1,0 +1,11 @@
+﻿{
+  "title": "Level Select: get started quickly",
+  "text": "[1. Place the “Level Select <orientation>” prefab from the “Assets/DTT/Level Select/Demo/Prefabs” folder into your scene. 2. You can now create new Scriptable Object Compositions to determine how an area in your level select environment should look. This can be done from the create menu under “DTT/Level Select/Composition”. 3. In the Composition you can configure the various layouts that should be used in your level select. Make sure the amount of Level Buttons in your layout matches the amount configured on the Level Select component. 4. Afterwards, make sure to place your new composition on your Level Select gameobject. 5. Now you only have to hook up your level database to the Level Select. This can be done by making a new class that inherits from the LevelRetriever component. This will force you to implement several methods. When this is done, reference this component in the Level Select component. ][Want to dive deeper? Take a look at our documentation:][l]",
+  "links": [
+    {
+      "text": "Open documentation",
+      "url": "Documentation.pdf",
+      "inline": false
+    }
+  ]
+}

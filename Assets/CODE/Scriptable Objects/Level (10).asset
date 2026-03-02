@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef5915c4ad492b54fa6978be8fbfa293, type: 3}
+  m_Name: Level (10)
+  m_EditorClassIdentifier: 
+  LevelName: Level
+  Description: 
+  enabledObjectives: -1
+  MaxMoves: 30
+  Timer: 50
+  CollectFuits: 4
+  ObjectiveMessage: Complete the level in 30 moves under 50 seconds and collect all
+    the fruits.
+  RewardCoins: 20
+  Prefab: {fileID: 986027393380340685, guid: 7c75e3ceafa82d341a563d867d86501c, type: 3}
